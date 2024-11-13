@@ -1,0 +1,40 @@
+label {
+  name: "Incubation"
+  label_id: 1
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "NestMaintenance"
+  label_id: 2
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "Resting"
+  label_id: 3
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "Sleeping"
+  label_id: 4
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "Preening"
+  label_id: 5
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "OffNest"
+  label_id: 6
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "Vigilance"
+  label_id: 7
+  label_type: PERSON_MOVEMENT
+}
+label {
+  name: "EggTurning"
+  label_id: 8
+  label_type: PERSON_MOVEMENT
+}

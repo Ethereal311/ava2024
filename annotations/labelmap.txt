@@ -1,0 +1,8 @@
+1: Incubation
+2: NestMaintenance
+3: Resting
+4: Sleeping
+5: Preening
+6: OffNest
+7: Vigilance
+8: EggTurning
